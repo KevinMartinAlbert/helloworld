@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 supernana_list = ["belle", "bulle", "rebelle","poubelle"]
 for supernana in supernana_list:
     print("coucou " + supernana + "!")
